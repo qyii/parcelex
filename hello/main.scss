@@ -1,0 +1,25 @@
+.qyii-wrap{
+  text-align: center;
+  h1 {
+    color: #4eacfa;
+  }
+  div {
+    color: #66ccff;
+  }
+  p {
+    color: #6699f8;
+  }
+  .qyii-list {
+    list-style: none;
+    li {
+      color: #4eacfa;
+      display: inline-block;
+      margin: 0 6px;
+      a {
+        color: #4eacfa;
+        text-decoration: none;
+        border-bottom: 1px solid #4eacfa;
+      }
+    }
+  }
+}
