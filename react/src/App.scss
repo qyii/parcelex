@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+  p {
+    color: #4e7edf;
+  }
+  .qyii-list {
+    list-style: none;
+    li {
+      display: inline-block;
+      padding: 0 3px;
+      a {
+        text-decoration: none;
+        color: #5599cc;
+      }
+    }
+  }
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
