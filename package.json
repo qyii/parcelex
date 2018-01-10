@@ -1,0 +1,19 @@
+{
+  "name": "parcel-exp-start",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "qyii",
+  "scripts": {
+    "hello": "parcel ./hello/index.html",
+    "react": "parcel ./react/index.html"
+  },
+  "dependencies": {
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1",
+    "node-sass": "^4.7.2",
+    "parcel-bundler": "^1.4.1",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  }
+}
